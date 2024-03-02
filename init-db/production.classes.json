@@ -1,0 +1,329 @@
+[{
+  "_id": {
+    "$oid": "658ec89d8103bbf375bd5cc7"
+  },
+  "name": "5a",
+  "classTeacher": {
+    "$oid": "658ec9b08103bbf375bd5d38"
+  },
+  "students": [
+    {
+      "$oid": "658ecbfc8103bbf375bd5d79"
+    }
+  ],
+  "rank": "5",
+  "announcements": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658ec8a08103bbf375bd5ccb"
+  },
+  "name": "5b",
+  "classTeacher": {
+    "$oid": "65e101389bd0736aca7b4c2d"
+  },
+  "students": [],
+  "rank": "5",
+  "announcements": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658ec8a58103bbf375bd5ccf"
+  },
+  "name": "5c",
+  "classTeacher": {
+    "$oid": "65e101959bd0736aca7b4c47"
+  },
+  "students": [],
+  "rank": "5",
+  "announcements": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658ec8a98103bbf375bd5cd3"
+  },
+  "name": "5d",
+  "classTeacher": null,
+  "students": [],
+  "rank": "5",
+  "announcements": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658ec8ac8103bbf375bd5cd7"
+  },
+  "name": "6a",
+  "classTeacher": {
+    "$oid": "65e101959bd0736aca7b4c47"
+  },
+  "students": [],
+  "rank": "6",
+  "announcements": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658ec8b08103bbf375bd5cdb"
+  },
+  "name": "6b",
+  "classTeacher": null,
+  "students": [
+    {
+      "$oid": "658ecccd8103bbf375bd5daa"
+    }
+  ],
+  "rank": "6",
+  "announcements": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658ec8b48103bbf375bd5cdf"
+  },
+  "name": "6c",
+  "classTeacher": null,
+  "students": [],
+  "rank": "6",
+  "announcements": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658ec8b78103bbf375bd5ce3"
+  },
+  "name": "6d",
+  "classTeacher": null,
+  "students": [
+    {
+      "$oid": "65e103329bd0736aca7b4d4d"
+    }
+  ],
+  "rank": "6",
+  "announcements": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658ec8ba8103bbf375bd5ce7"
+  },
+  "name": "7a",
+  "classTeacher": null,
+  "students": [],
+  "rank": "7",
+  "announcements": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658ec8be8103bbf375bd5ceb"
+  },
+  "name": "7b",
+  "classTeacher": {
+    "$oid": "658ec9d98103bbf375bd5d3f"
+  },
+  "students": [],
+  "rank": "7",
+  "announcements": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658ec8c18103bbf375bd5cef"
+  },
+  "name": "7c",
+  "classTeacher": null,
+  "students": [],
+  "rank": "7",
+  "announcements": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658ec8c48103bbf375bd5cf3"
+  },
+  "name": "8a",
+  "classTeacher": null,
+  "students": [],
+  "rank": "8",
+  "announcements": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658ec8c88103bbf375bd5cf7"
+  },
+  "name": "8b",
+  "classTeacher": {
+    "$oid": "658ecab98103bbf375bd5d65"
+  },
+  "students": [
+    {
+      "$oid": "658ecc2b8103bbf375bd5d80"
+    },
+    {
+      "$oid": "65e101fc9bd0736aca7b4d38"
+    }
+  ],
+  "rank": "8",
+  "announcements": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658ec8cb8103bbf375bd5cfb"
+  },
+  "name": "8c",
+  "classTeacher": null,
+  "students": [],
+  "rank": "8",
+  "announcements": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658ec8cf8103bbf375bd5cff"
+  },
+  "name": "9a",
+  "classTeacher": null,
+  "students": [],
+  "rank": "9",
+  "announcements": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658ec8d28103bbf375bd5d03"
+  },
+  "name": "9b",
+  "classTeacher": null,
+  "students": [],
+  "rank": "9",
+  "announcements": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658ec8d88103bbf375bd5d07"
+  },
+  "name": "9c",
+  "classTeacher": null,
+  "students": [],
+  "rank": "9",
+  "announcements": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658ec8db8103bbf375bd5d0b"
+  },
+  "name": "10a",
+  "classTeacher": null,
+  "students": [],
+  "rank": "10",
+  "announcements": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658ec8e18103bbf375bd5d0f"
+  },
+  "name": "10b",
+  "classTeacher": null,
+  "students": [],
+  "rank": "10",
+  "announcements": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658ec8e48103bbf375bd5d13"
+  },
+  "name": "10c",
+  "classTeacher": null,
+  "students": [],
+  "rank": "10",
+  "announcements": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658ec8e88103bbf375bd5d17"
+  },
+  "name": "11a",
+  "classTeacher": {
+    "$oid": "658eca7a8103bbf375bd5d5a"
+  },
+  "students": [
+    {
+      "$oid": "658ecc508103bbf375bd5d88"
+    },
+    {
+      "$oid": "658ecc678103bbf375bd5d91"
+    },
+    {
+      "$oid": "658ecca78103bbf375bd5d9b"
+    }
+  ],
+  "rank": "11",
+  "announcements": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658ec8eb8103bbf375bd5d1b"
+  },
+  "name": "11b",
+  "classTeacher": null,
+  "students": [],
+  "rank": "11",
+  "announcements": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658ec8ee8103bbf375bd5d1f"
+  },
+  "name": "11c",
+  "classTeacher": null,
+  "students": [],
+  "rank": "11",
+  "announcements": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658ec8f28103bbf375bd5d23"
+  },
+  "name": "12a",
+  "classTeacher": null,
+  "students": [],
+  "rank": "12",
+  "announcements": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658ec8f68103bbf375bd5d27"
+  },
+  "name": "12b",
+  "classTeacher": null,
+  "students": [],
+  "rank": "12",
+  "announcements": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658ec8f98103bbf375bd5d2b"
+  },
+  "name": "12c",
+  "classTeacher": null,
+  "students": [],
+  "rank": "12",
+  "announcements": [],
+  "__v": 0
+}]

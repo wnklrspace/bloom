@@ -1,0 +1,49 @@
+version: '3.8'
+services:
+  backend:
+    build: ./backend
+    container_name: backend_cnt
+    ports:
+      - '4000:4000'
+    networks:
+      - bloom-net
+    depends_on:
+      - database-seed
+
+  frontend:
+    build: ./frontend
+    container_name: frontend_cnt
+    stdin_open: true
+    ports:
+      - '5173:5173'
+    networks:
+      - bloom-net
+    depends_on:
+      - backend
+
+  database:
+    image: mongo:5.0
+    ports:
+      - '27017:27017'
+    networks:
+      - bloom-net
+    volumes:
+      - db-data:/data/db
+
+  database-seed:
+    build:
+      context: ./init-db
+      args:
+        - DATABASE_URI=mongodb://database:27017/bloom
+    container_name: db-seed_cnt
+    networks:
+      - bloom-net
+    depends_on:
+      - database
+
+networks:
+  bloom-net:
+    driver: bridge
+
+volumes:
+  db-data:

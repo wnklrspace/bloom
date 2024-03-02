@@ -1,0 +1,983 @@
+[{
+  "_id": {
+    "$oid": "65e0ff829bd0736aca7b4a42"
+  },
+  "name": "133",
+  "timetable": {
+    "monday": {
+      "one": {
+        "timeslot": "08:15 - 09:45",
+        "course": {
+          "$oid": "65e0ff979bd0736aca7b4a53"
+        }
+      },
+      "two": {
+        "timeslot": "10:00 - 11:30",
+        "course": null
+      },
+      "three": {
+        "timeslot": "11:45 - 13:15",
+        "course": null
+      },
+      "four": {
+        "timeslot": "14:15 - 15:45",
+        "course": null
+      },
+      "five": {
+        "timeslot": "16:00 - 17:30",
+        "course": null
+      },
+      "six": {
+        "timeslot": "17:45 - 19:15",
+        "course": null
+      }
+    },
+    "tuesday": {
+      "one": {
+        "timeslot": "08:15 - 09:45",
+        "course": null
+      },
+      "two": {
+        "timeslot": "10:00 - 11:30",
+        "course": null
+      },
+      "three": {
+        "timeslot": "11:45 - 13:15",
+        "course": null
+      },
+      "four": {
+        "timeslot": "14:15 - 15:45",
+        "course": {
+          "$oid": "65e0ffce9bd0736aca7b4a7d"
+        }
+      },
+      "five": {
+        "timeslot": "16:00 - 17:30",
+        "course": null
+      },
+      "six": {
+        "timeslot": "17:45 - 19:15",
+        "course": null
+      }
+    },
+    "wednesday": {
+      "one": {
+        "timeslot": "08:15 - 09:45",
+        "course": null
+      },
+      "two": {
+        "timeslot": "10:00 - 11:30",
+        "course": null
+      },
+      "three": {
+        "timeslot": "11:45 - 13:15",
+        "course": null
+      },
+      "four": {
+        "timeslot": "14:15 - 15:45",
+        "course": null
+      },
+      "five": {
+        "timeslot": "16:00 - 17:30",
+        "course": null
+      },
+      "six": {
+        "timeslot": "17:45 - 19:15",
+        "course": null
+      }
+    },
+    "thursday": {
+      "one": {
+        "timeslot": "08:15 - 09:45",
+        "course": null
+      },
+      "two": {
+        "timeslot": "10:00 - 11:30",
+        "course": null
+      },
+      "three": {
+        "timeslot": "11:45 - 13:15",
+        "course": null
+      },
+      "four": {
+        "timeslot": "14:15 - 15:45",
+        "course": null
+      },
+      "five": {
+        "timeslot": "16:00 - 17:30",
+        "course": null
+      },
+      "six": {
+        "timeslot": "17:45 - 19:15",
+        "course": null
+      }
+    },
+    "friday": {
+      "one": {
+        "timeslot": "08:15 - 09:45",
+        "course": null
+      },
+      "two": {
+        "timeslot": "10:00 - 11:30",
+        "course": null
+      },
+      "three": {
+        "timeslot": "11:45 - 13:15",
+        "course": null
+      },
+      "four": {
+        "timeslot": "14:15 - 15:45",
+        "course": null
+      },
+      "five": {
+        "timeslot": "16:00 - 17:30",
+        "course": null
+      },
+      "six": {
+        "timeslot": "17:45 - 19:15",
+        "course": null
+      }
+    }
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e0ffa99bd0736aca7b4a62"
+  },
+  "name": "135",
+  "timetable": {
+    "monday": {
+      "one": {
+        "timeslot": "08:15 - 09:45",
+        "course": null
+      },
+      "two": {
+        "timeslot": "10:00 - 11:30",
+        "course": null
+      },
+      "three": {
+        "timeslot": "11:45 - 13:15",
+        "course": null
+      },
+      "four": {
+        "timeslot": "14:15 - 15:45",
+        "course": null
+      },
+      "five": {
+        "timeslot": "16:00 - 17:30",
+        "course": null
+      },
+      "six": {
+        "timeslot": "17:45 - 19:15",
+        "course": null
+      }
+    },
+    "tuesday": {
+      "one": {
+        "timeslot": "08:15 - 09:45",
+        "course": null
+      },
+      "two": {
+        "timeslot": "10:00 - 11:30",
+        "course": null
+      },
+      "three": {
+        "timeslot": "11:45 - 13:15",
+        "course": null
+      },
+      "four": {
+        "timeslot": "14:15 - 15:45",
+        "course": null
+      },
+      "five": {
+        "timeslot": "16:00 - 17:30",
+        "course": null
+      },
+      "six": {
+        "timeslot": "17:45 - 19:15",
+        "course": null
+      }
+    },
+    "wednesday": {
+      "one": {
+        "timeslot": "08:15 - 09:45",
+        "course": null
+      },
+      "two": {
+        "timeslot": "10:00 - 11:30",
+        "course": {
+          "$oid": "65e100289bd0736aca7b4aaf"
+        }
+      },
+      "three": {
+        "timeslot": "11:45 - 13:15",
+        "course": null
+      },
+      "four": {
+        "timeslot": "14:15 - 15:45",
+        "course": null
+      },
+      "five": {
+        "timeslot": "16:00 - 17:30",
+        "course": null
+      },
+      "six": {
+        "timeslot": "17:45 - 19:15",
+        "course": null
+      }
+    },
+    "thursday": {
+      "one": {
+        "timeslot": "08:15 - 09:45",
+        "course": null
+      },
+      "two": {
+        "timeslot": "10:00 - 11:30",
+        "course": null
+      },
+      "three": {
+        "timeslot": "11:45 - 13:15",
+        "course": null
+      },
+      "four": {
+        "timeslot": "14:15 - 15:45",
+        "course": null
+      },
+      "five": {
+        "timeslot": "16:00 - 17:30",
+        "course": null
+      },
+      "six": {
+        "timeslot": "17:45 - 19:15",
+        "course": null
+      }
+    },
+    "friday": {
+      "one": {
+        "timeslot": "08:15 - 09:45",
+        "course": null
+      },
+      "two": {
+        "timeslot": "10:00 - 11:30",
+        "course": null
+      },
+      "three": {
+        "timeslot": "11:45 - 13:15",
+        "course": null
+      },
+      "four": {
+        "timeslot": "14:15 - 15:45",
+        "course": null
+      },
+      "five": {
+        "timeslot": "16:00 - 17:30",
+        "course": null
+      },
+      "six": {
+        "timeslot": "17:45 - 19:15",
+        "course": null
+      }
+    }
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e0ffad9bd0736aca7b4a66"
+  },
+  "name": "141",
+  "timetable": {
+    "monday": {
+      "one": {
+        "timeslot": "08:15 - 09:45",
+        "course": null
+      },
+      "two": {
+        "timeslot": "10:00 - 11:30",
+        "course": null
+      },
+      "three": {
+        "timeslot": "11:45 - 13:15",
+        "course": null
+      },
+      "four": {
+        "timeslot": "14:15 - 15:45",
+        "course": null
+      },
+      "five": {
+        "timeslot": "16:00 - 17:30",
+        "course": null
+      },
+      "six": {
+        "timeslot": "17:45 - 19:15",
+        "course": null
+      }
+    },
+    "tuesday": {
+      "one": {
+        "timeslot": "08:15 - 09:45",
+        "course": null
+      },
+      "two": {
+        "timeslot": "10:00 - 11:30",
+        "course": null
+      },
+      "three": {
+        "timeslot": "11:45 - 13:15",
+        "course": null
+      },
+      "four": {
+        "timeslot": "14:15 - 15:45",
+        "course": null
+      },
+      "five": {
+        "timeslot": "16:00 - 17:30",
+        "course": null
+      },
+      "six": {
+        "timeslot": "17:45 - 19:15",
+        "course": null
+      }
+    },
+    "wednesday": {
+      "one": {
+        "timeslot": "08:15 - 09:45",
+        "course": null
+      },
+      "two": {
+        "timeslot": "10:00 - 11:30",
+        "course": null
+      },
+      "three": {
+        "timeslot": "11:45 - 13:15",
+        "course": null
+      },
+      "four": {
+        "timeslot": "14:15 - 15:45",
+        "course": null
+      },
+      "five": {
+        "timeslot": "16:00 - 17:30",
+        "course": null
+      },
+      "six": {
+        "timeslot": "17:45 - 19:15",
+        "course": null
+      }
+    },
+    "thursday": {
+      "one": {
+        "timeslot": "08:15 - 09:45",
+        "course": null
+      },
+      "two": {
+        "timeslot": "10:00 - 11:30",
+        "course": null
+      },
+      "three": {
+        "timeslot": "11:45 - 13:15",
+        "course": null
+      },
+      "four": {
+        "timeslot": "14:15 - 15:45",
+        "course": null
+      },
+      "five": {
+        "timeslot": "16:00 - 17:30",
+        "course": null
+      },
+      "six": {
+        "timeslot": "17:45 - 19:15",
+        "course": null
+      }
+    },
+    "friday": {
+      "one": {
+        "timeslot": "08:15 - 09:45",
+        "course": null
+      },
+      "two": {
+        "timeslot": "10:00 - 11:30",
+        "course": null
+      },
+      "three": {
+        "timeslot": "11:45 - 13:15",
+        "course": null
+      },
+      "four": {
+        "timeslot": "14:15 - 15:45",
+        "course": null
+      },
+      "five": {
+        "timeslot": "16:00 - 17:30",
+        "course": null
+      },
+      "six": {
+        "timeslot": "17:45 - 19:15",
+        "course": null
+      }
+    }
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e0ffb29bd0736aca7b4a6a"
+  },
+  "name": "147",
+  "timetable": {
+    "monday": {
+      "one": {
+        "timeslot": "08:15 - 09:45",
+        "course": null
+      },
+      "two": {
+        "timeslot": "10:00 - 11:30",
+        "course": null
+      },
+      "three": {
+        "timeslot": "11:45 - 13:15",
+        "course": {
+          "$oid": "65e0ffe79bd0736aca7b4a8c"
+        }
+      },
+      "four": {
+        "timeslot": "14:15 - 15:45",
+        "course": null
+      },
+      "five": {
+        "timeslot": "16:00 - 17:30",
+        "course": null
+      },
+      "six": {
+        "timeslot": "17:45 - 19:15",
+        "course": null
+      }
+    },
+    "tuesday": {
+      "one": {
+        "timeslot": "08:15 - 09:45",
+        "course": null
+      },
+      "two": {
+        "timeslot": "10:00 - 11:30",
+        "course": null
+      },
+      "three": {
+        "timeslot": "11:45 - 13:15",
+        "course": null
+      },
+      "four": {
+        "timeslot": "14:15 - 15:45",
+        "course": null
+      },
+      "five": {
+        "timeslot": "16:00 - 17:30",
+        "course": null
+      },
+      "six": {
+        "timeslot": "17:45 - 19:15",
+        "course": null
+      }
+    },
+    "wednesday": {
+      "one": {
+        "timeslot": "08:15 - 09:45",
+        "course": null
+      },
+      "two": {
+        "timeslot": "10:00 - 11:30",
+        "course": null
+      },
+      "three": {
+        "timeslot": "11:45 - 13:15",
+        "course": null
+      },
+      "four": {
+        "timeslot": "14:15 - 15:45",
+        "course": null
+      },
+      "five": {
+        "timeslot": "16:00 - 17:30",
+        "course": null
+      },
+      "six": {
+        "timeslot": "17:45 - 19:15",
+        "course": null
+      }
+    },
+    "thursday": {
+      "one": {
+        "timeslot": "08:15 - 09:45",
+        "course": null
+      },
+      "two": {
+        "timeslot": "10:00 - 11:30",
+        "course": null
+      },
+      "three": {
+        "timeslot": "11:45 - 13:15",
+        "course": null
+      },
+      "four": {
+        "timeslot": "14:15 - 15:45",
+        "course": null
+      },
+      "five": {
+        "timeslot": "16:00 - 17:30",
+        "course": null
+      },
+      "six": {
+        "timeslot": "17:45 - 19:15",
+        "course": null
+      }
+    },
+    "friday": {
+      "one": {
+        "timeslot": "08:15 - 09:45",
+        "course": null
+      },
+      "two": {
+        "timeslot": "10:00 - 11:30",
+        "course": null
+      },
+      "three": {
+        "timeslot": "11:45 - 13:15",
+        "course": null
+      },
+      "four": {
+        "timeslot": "14:15 - 15:45",
+        "course": null
+      },
+      "five": {
+        "timeslot": "16:00 - 17:30",
+        "course": null
+      },
+      "six": {
+        "timeslot": "17:45 - 19:15",
+        "course": null
+      }
+    }
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e0ffb89bd0736aca7b4a6e"
+  },
+  "name": "538",
+  "timetable": {
+    "monday": {
+      "one": {
+        "timeslot": "08:15 - 09:45",
+        "course": null
+      },
+      "two": {
+        "timeslot": "10:00 - 11:30",
+        "course": null
+      },
+      "three": {
+        "timeslot": "11:45 - 13:15",
+        "course": null
+      },
+      "four": {
+        "timeslot": "14:15 - 15:45",
+        "course": null
+      },
+      "five": {
+        "timeslot": "16:00 - 17:30",
+        "course": null
+      },
+      "six": {
+        "timeslot": "17:45 - 19:15",
+        "course": null
+      }
+    },
+    "tuesday": {
+      "one": {
+        "timeslot": "08:15 - 09:45",
+        "course": null
+      },
+      "two": {
+        "timeslot": "10:00 - 11:30",
+        "course": null
+      },
+      "three": {
+        "timeslot": "11:45 - 13:15",
+        "course": null
+      },
+      "four": {
+        "timeslot": "14:15 - 15:45",
+        "course": null
+      },
+      "five": {
+        "timeslot": "16:00 - 17:30",
+        "course": null
+      },
+      "six": {
+        "timeslot": "17:45 - 19:15",
+        "course": null
+      }
+    },
+    "wednesday": {
+      "one": {
+        "timeslot": "08:15 - 09:45",
+        "course": null
+      },
+      "two": {
+        "timeslot": "10:00 - 11:30",
+        "course": null
+      },
+      "three": {
+        "timeslot": "11:45 - 13:15",
+        "course": null
+      },
+      "four": {
+        "timeslot": "14:15 - 15:45",
+        "course": null
+      },
+      "five": {
+        "timeslot": "16:00 - 17:30",
+        "course": null
+      },
+      "six": {
+        "timeslot": "17:45 - 19:15",
+        "course": null
+      }
+    },
+    "thursday": {
+      "one": {
+        "timeslot": "08:15 - 09:45",
+        "course": null
+      },
+      "two": {
+        "timeslot": "10:00 - 11:30",
+        "course": null
+      },
+      "three": {
+        "timeslot": "11:45 - 13:15",
+        "course": null
+      },
+      "four": {
+        "timeslot": "14:15 - 15:45",
+        "course": null
+      },
+      "five": {
+        "timeslot": "16:00 - 17:30",
+        "course": {
+          "$oid": "65e100089bd0736aca7b4a9f"
+        }
+      },
+      "six": {
+        "timeslot": "17:45 - 19:15",
+        "course": null
+      }
+    },
+    "friday": {
+      "one": {
+        "timeslot": "08:15 - 09:45",
+        "course": null
+      },
+      "two": {
+        "timeslot": "10:00 - 11:30",
+        "course": null
+      },
+      "three": {
+        "timeslot": "11:45 - 13:15",
+        "course": null
+      },
+      "four": {
+        "timeslot": "14:15 - 15:45",
+        "course": null
+      },
+      "five": {
+        "timeslot": "16:00 - 17:30",
+        "course": null
+      },
+      "six": {
+        "timeslot": "17:45 - 19:15",
+        "course": null
+      }
+    }
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e0ffbc9bd0736aca7b4a72"
+  },
+  "name": "001",
+  "timetable": {
+    "monday": {
+      "one": {
+        "timeslot": "08:15 - 09:45",
+        "course": null
+      },
+      "two": {
+        "timeslot": "10:00 - 11:30",
+        "course": null
+      },
+      "three": {
+        "timeslot": "11:45 - 13:15",
+        "course": null
+      },
+      "four": {
+        "timeslot": "14:15 - 15:45",
+        "course": null
+      },
+      "five": {
+        "timeslot": "16:00 - 17:30",
+        "course": null
+      },
+      "six": {
+        "timeslot": "17:45 - 19:15",
+        "course": null
+      }
+    },
+    "tuesday": {
+      "one": {
+        "timeslot": "08:15 - 09:45",
+        "course": null
+      },
+      "two": {
+        "timeslot": "10:00 - 11:30",
+        "course": null
+      },
+      "three": {
+        "timeslot": "11:45 - 13:15",
+        "course": null
+      },
+      "four": {
+        "timeslot": "14:15 - 15:45",
+        "course": null
+      },
+      "five": {
+        "timeslot": "16:00 - 17:30",
+        "course": null
+      },
+      "six": {
+        "timeslot": "17:45 - 19:15",
+        "course": null
+      }
+    },
+    "wednesday": {
+      "one": {
+        "timeslot": "08:15 - 09:45",
+        "course": null
+      },
+      "two": {
+        "timeslot": "10:00 - 11:30",
+        "course": null
+      },
+      "three": {
+        "timeslot": "11:45 - 13:15",
+        "course": null
+      },
+      "four": {
+        "timeslot": "14:15 - 15:45",
+        "course": null
+      },
+      "five": {
+        "timeslot": "16:00 - 17:30",
+        "course": null
+      },
+      "six": {
+        "timeslot": "17:45 - 19:15",
+        "course": null
+      }
+    },
+    "thursday": {
+      "one": {
+        "timeslot": "08:15 - 09:45",
+        "course": null
+      },
+      "two": {
+        "timeslot": "10:00 - 11:30",
+        "course": null
+      },
+      "three": {
+        "timeslot": "11:45 - 13:15",
+        "course": null
+      },
+      "four": {
+        "timeslot": "14:15 - 15:45",
+        "course": null
+      },
+      "five": {
+        "timeslot": "16:00 - 17:30",
+        "course": null
+      },
+      "six": {
+        "timeslot": "17:45 - 19:15",
+        "course": null
+      }
+    },
+    "friday": {
+      "one": {
+        "timeslot": "08:15 - 09:45",
+        "course": null
+      },
+      "two": {
+        "timeslot": "10:00 - 11:30",
+        "course": null
+      },
+      "three": {
+        "timeslot": "11:45 - 13:15",
+        "course": null
+      },
+      "four": {
+        "timeslot": "14:15 - 15:45",
+        "course": null
+      },
+      "five": {
+        "timeslot": "16:00 - 17:30",
+        "course": null
+      },
+      "six": {
+        "timeslot": "17:45 - 19:15",
+        "course": null
+      }
+    }
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e0ffc19bd0736aca7b4a76"
+  },
+  "name": "002",
+  "timetable": {
+    "monday": {
+      "one": {
+        "timeslot": "08:15 - 09:45",
+        "course": null
+      },
+      "two": {
+        "timeslot": "10:00 - 11:30",
+        "course": null
+      },
+      "three": {
+        "timeslot": "11:45 - 13:15",
+        "course": null
+      },
+      "four": {
+        "timeslot": "14:15 - 15:45",
+        "course": null
+      },
+      "five": {
+        "timeslot": "16:00 - 17:30",
+        "course": null
+      },
+      "six": {
+        "timeslot": "17:45 - 19:15",
+        "course": null
+      }
+    },
+    "tuesday": {
+      "one": {
+        "timeslot": "08:15 - 09:45",
+        "course": null
+      },
+      "two": {
+        "timeslot": "10:00 - 11:30",
+        "course": null
+      },
+      "three": {
+        "timeslot": "11:45 - 13:15",
+        "course": null
+      },
+      "four": {
+        "timeslot": "14:15 - 15:45",
+        "course": null
+      },
+      "five": {
+        "timeslot": "16:00 - 17:30",
+        "course": null
+      },
+      "six": {
+        "timeslot": "17:45 - 19:15",
+        "course": null
+      }
+    },
+    "wednesday": {
+      "one": {
+        "timeslot": "08:15 - 09:45",
+        "course": null
+      },
+      "two": {
+        "timeslot": "10:00 - 11:30",
+        "course": null
+      },
+      "three": {
+        "timeslot": "11:45 - 13:15",
+        "course": null
+      },
+      "four": {
+        "timeslot": "14:15 - 15:45",
+        "course": null
+      },
+      "five": {
+        "timeslot": "16:00 - 17:30",
+        "course": null
+      },
+      "six": {
+        "timeslot": "17:45 - 19:15",
+        "course": null
+      }
+    },
+    "thursday": {
+      "one": {
+        "timeslot": "08:15 - 09:45",
+        "course": null
+      },
+      "two": {
+        "timeslot": "10:00 - 11:30",
+        "course": null
+      },
+      "three": {
+        "timeslot": "11:45 - 13:15",
+        "course": null
+      },
+      "four": {
+        "timeslot": "14:15 - 15:45",
+        "course": null
+      },
+      "five": {
+        "timeslot": "16:00 - 17:30",
+        "course": null
+      },
+      "six": {
+        "timeslot": "17:45 - 19:15",
+        "course": null
+      }
+    },
+    "friday": {
+      "one": {
+        "timeslot": "08:15 - 09:45",
+        "course": null
+      },
+      "two": {
+        "timeslot": "10:00 - 11:30",
+        "course": null
+      },
+      "three": {
+        "timeslot": "11:45 - 13:15",
+        "course": null
+      },
+      "four": {
+        "timeslot": "14:15 - 15:45",
+        "course": null
+      },
+      "five": {
+        "timeslot": "16:00 - 17:30",
+        "course": null
+      },
+      "six": {
+        "timeslot": "17:45 - 19:15",
+        "course": null
+      }
+    }
+  },
+  "__v": 0
+}]

@@ -1,0 +1,230 @@
+[
+	{
+		"_id": {
+			"$oid": "658ec9b08103bbf375bd5d38"
+		},
+		"userName": "mgoik",
+		"password": "tins",
+		"cName": "Martin Goik",
+		"address": {
+			"street": "Nobelstraße 10",
+			"zipCode": "70563",
+			"city": "Stuttgart"
+		},
+		"contact": {
+			"phoneNumber": "123456789",
+			"email": "teacher@bloom-school.de"
+		},
+		"role": "admin",
+		"__v": 0
+	},
+	{
+		"_id": {
+			"$oid": "658ec9d98103bbf375bd5d3f"
+		},
+		"userName": "tsimonedebeauvoir",
+		"password": "tins",
+		"cName": "Simone de Beauvoir",
+		"address": {
+			"street": "Arrondissement 13",
+			"zipCode": "70123",
+			"city": "Paris"
+		},
+		"contact": {
+			"phoneNumber": "123456789",
+			"email": "teacher@bloom-school.de"
+		},
+		"role": "teacher",
+		"__v": 0
+	},
+	{
+		"_id": {
+			"$oid": "658eca058103bbf375bd5d47"
+		},
+		"userName": "tusainbolt",
+		"password": "tins",
+		"cName": "Usain Bolt",
+		"address": {
+			"street": "The Causeway Teddington Middlesex",
+			"zipCode": "TW11 0HE",
+			"city": "Vereinigtes Königreich"
+		},
+		"contact": {
+			"phoneNumber": "123456789",
+			"email": "teacher@bloom-school.de"
+		},
+		"role": "teacher",
+		"__v": 0
+	},
+	{
+		"_id": {
+			"$oid": "658eca3c8103bbf375bd5d50"
+		},
+		"userName": "tmariecurie",
+		"password": "tins",
+		"cName": "Marie Curie",
+		"address": {
+			"street": "Waldstraße 1a",
+			"zipCode": "16540",
+			"city": "Hohen Neuendorf"
+		},
+		"contact": {
+			"phoneNumber": "123456789",
+			"email": "teacher@bloom-school.de"
+		},
+		"role": "teacher",
+		"__v": 0
+	},
+	{
+		"_id": {
+			"$oid": "658eca7a8103bbf375bd5d5a"
+		},
+		"userName": "tphoebewallerbridge",
+		"password": "tins",
+		"cName": "Phoebe Waller Bridge",
+		"address": {
+			"street": "2 Percy Street",
+			"zipCode": "W1T 1DD",
+			"city": "London"
+		},
+		"contact": {
+			"phoneNumber": "123456789",
+			"email": "teacher@bloom-school.de"
+		},
+		"role": "teacher",
+		"__v": 0
+	},
+	{
+		"_id": {
+			"$oid": "658ecab98103bbf375bd5d65"
+		},
+		"userName": "tpaulmescal",
+		"password": "tins",
+		"cName": "Paul Mescal",
+		"address": {
+			"street": "Outscirts Street",
+			"zipCode": "12345",
+			"city": "Schull"
+		},
+		"contact": {
+			"phoneNumber": "123456789",
+			"email": "teacher@bloom-school.de"
+		},
+		"role": "teacher",
+		"__v": 0
+	},
+	{
+		"_id": {
+			"$oid": "658ecbfc8103bbf375bd5d79"
+		},
+		"userName": "smarienasemann",
+		"password": "tins",
+		"cName": "Marie Nasemann",
+		"address": {
+			"street": "Landhaus",
+			"zipCode": "12345",
+			"city": "Stuttgart"
+		},
+		"contact": {
+			"phoneNumber": "123456789",
+			"email": "test@bloom-school.de"
+		},
+		"role": "student",
+		"__v": 0
+	},
+	{
+		"_id": {
+			"$oid": "658ecc2b8103bbf375bd5d80"
+		},
+		"userName": "stobiasmaguire",
+		"password": "tins",
+		"cName": "Tobias Maguire",
+		"address": {
+			"street": "Penthousestreet 23",
+			"zipCode": "12345",
+			"city": "Stuttgart"
+		},
+		"contact": {
+			"phoneNumber": "123456789",
+			"email": "test@bloom-school.de"
+		},
+		"role": "student",
+		"__v": 0
+	},
+	{
+		"_id": {
+			"$oid": "658ecc508103bbf375bd5d88"
+		},
+		"userName": "stimstrupwald",
+		"password": "tins",
+		"cName": "Tim Strupwald",
+		"address": {
+			"street": "Kyffhäuserweg 91",
+			"zipCode": "12345",
+			"city": "Stuttgart"
+		},
+		"contact": {
+			"phoneNumber": "123456789",
+			"email": "test@bloom-school.de"
+		},
+		"role": "student",
+		"__v": 0
+	},
+	{
+		"_id": {
+			"$oid": "658ecc678103bbf375bd5d91"
+		},
+		"userName": "smartinschulze",
+		"password": "tins",
+		"cName": "Martin Schulze",
+		"address": {
+			"street": "Müllerweg 12",
+			"zipCode": "12345",
+			"city": "Stuttgart"
+		},
+		"contact": {
+			"phoneNumber": "123456789",
+			"email": "test@bloom-school.de"
+		},
+		"role": "student",
+		"__v": 0
+	},
+	{
+		"_id": {
+			"$oid": "658ecca78103bbf375bd5d9b"
+		},
+		"userName": "ssarahconnberger",
+		"password": "tins",
+		"cName": "Sarah Connberger",
+		"address": {
+			"street": "Waldweg 32",
+			"zipCode": "12345",
+			"city": "Stuttgart"
+		},
+		"contact": {
+			"phoneNumber": "123456789",
+			"email": "test@bloom-school.de"
+		},
+		"role": "student",
+		"__v": 0
+	},
+	{
+		"_id": {
+			"$oid": "658ecccd8103bbf375bd5daa"
+		},
+		"userName": "statjanaschuler",
+		"password": "tins",
+		"cName": "Tatjana Schuler",
+		"address": {
+			"street": "Kürbislaternenweg 12",
+			"zipCode": "12345",
+			"city": "Stuttgart"
+		},
+		"contact": {
+			"phoneNumber": "123456789",
+			"email": "test@bloom-school.de"
+		},
+		"role": "student",
+		"__v": 0
+	}
+]

@@ -1,0 +1,128 @@
+[{
+  "_id": {
+    "$oid": "658ecbfc8103bbf375bd5d7b"
+  },
+  "userId": {
+    "$oid": "658ecbfc8103bbf375bd5d79"
+  },
+  "class": {
+    "$oid": "658ec89d8103bbf375bd5cc7"
+  },
+  "grades": [],
+  "courses": [
+    {
+      "$oid": "65e0ffe79bd0736aca7b4a8c"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658ecc2b8103bbf375bd5d82"
+  },
+  "userId": {
+    "$oid": "658ecc2b8103bbf375bd5d80"
+  },
+  "class": {
+    "$oid": "658ec8c88103bbf375bd5cf7"
+  },
+  "grades": [],
+  "courses": [
+    {
+      "$oid": "65e100089bd0736aca7b4a9f"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658ecc508103bbf375bd5d8a"
+  },
+  "userId": {
+    "$oid": "658ecc508103bbf375bd5d88"
+  },
+  "class": {
+    "$oid": "658ec8e88103bbf375bd5d17"
+  },
+  "grades": [],
+  "courses": [
+    {
+      "$oid": "65e100289bd0736aca7b4aaf"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658ecc678103bbf375bd5d93"
+  },
+  "userId": {
+    "$oid": "658ecc678103bbf375bd5d91"
+  },
+  "class": {
+    "$oid": "658ec8e88103bbf375bd5d17"
+  },
+  "grades": [],
+  "courses": [
+    {
+      "$oid": "65e100289bd0736aca7b4aaf"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658ecca78103bbf375bd5d9d"
+  },
+  "userId": {
+    "$oid": "658ecca78103bbf375bd5d9b"
+  },
+  "class": {
+    "$oid": "658ec8e88103bbf375bd5d17"
+  },
+  "grades": [],
+  "courses": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658ecccd8103bbf375bd5dac"
+  },
+  "userId": {
+    "$oid": "658ecccd8103bbf375bd5daa"
+  },
+  "class": {
+    "$oid": "658ec8b08103bbf375bd5cdb"
+  },
+  "grades": [],
+  "courses": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e101fc9bd0736aca7b4d3a"
+  },
+  "userId": {
+    "$oid": "65e101fc9bd0736aca7b4d38"
+  },
+  "class": {
+    "$oid": "658ec8c88103bbf375bd5cf7"
+  },
+  "grades": [],
+  "courses": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e103329bd0736aca7b4d4f"
+  },
+  "userId": {
+    "$oid": "65e103329bd0736aca7b4d4d"
+  },
+  "class": {
+    "$oid": "658ec8b78103bbf375bd5ce3"
+  },
+  "grades": [],
+  "courses": [],
+  "__v": 0
+}]

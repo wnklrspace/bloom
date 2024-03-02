@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "65e103639bd0736aca7b4d70"
+  },
+  "name": "Pop quiz",
+  "weight": 1,
+  "type": "exam",
+  "courseId": {
+    "$oid": "65e0ff979bd0736aca7b4a53"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e1080559ff022681d5777c"
+  },
+  "name": "Big exam",
+  "weight": 0.75,
+  "type": "exam",
+  "courseId": {
+    "$oid": "65e0ffe79bd0736aca7b4a8c"
+  },
+  "__v": 0
+}]

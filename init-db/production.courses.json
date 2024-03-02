@@ -1,0 +1,184 @@
+[{
+  "_id": {
+    "$oid": "65e0ff979bd0736aca7b4a53"
+  },
+  "name": "Geography",
+  "shortName": "Ge",
+  "courseTeacher": {
+    "$oid": "658ec9d98103bbf375bd5d3f"
+  },
+  "students": [],
+  "exams": [
+    {
+      "$oid": "65e1080559ff022681d5777c"
+    }
+  ],
+  "mandatory": false,
+  "room": {
+    "$oid": "65e0ff829bd0736aca7b4a42"
+  },
+  "time": {
+    "weekday": "monday",
+    "timeslot": "08:15 - 09:45"
+  },
+  "rank": "5",
+  "schoolClasses": [
+    {
+      "$oid": "658ec89d8103bbf375bd5cc7"
+    },
+    {
+      "$oid": "658ec8a08103bbf375bd5ccb"
+    },
+    {
+      "$oid": "658ec8a58103bbf375bd5ccf"
+    },
+    {
+      "$oid": "658ec8a98103bbf375bd5cd3"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e0ffce9bd0736aca7b4a7d"
+  },
+  "name": "Sports",
+  "shortName": "Sp",
+  "courseTeacher": {
+    "$oid": "658eca058103bbf375bd5d47"
+  },
+  "students": [],
+  "exams": [],
+  "mandatory": false,
+  "room": {
+    "$oid": "65e0ff829bd0736aca7b4a42"
+  },
+  "time": {
+    "weekday": "tuesday",
+    "timeslot": "14:15 - 15:45"
+  },
+  "rank": "6",
+  "schoolClasses": [
+    {
+      "$oid": "658ec8ac8103bbf375bd5cd7"
+    },
+    {
+      "$oid": "658ec8b08103bbf375bd5cdb"
+    },
+    {
+      "$oid": "658ec8b48103bbf375bd5cdf"
+    },
+    {
+      "$oid": "658ec8b78103bbf375bd5ce3"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e0ffe79bd0736aca7b4a8c"
+  },
+  "name": "Physics",
+  "shortName": "Ph",
+  "courseTeacher": {
+    "$oid": "658eca3c8103bbf375bd5d50"
+  },
+  "students": [],
+  "exams": [
+    {
+      "$oid": "65e1080559ff022681d5777c"
+    }
+  ],
+  "mandatory": true,
+  "room": {
+    "$oid": "65e0ffb29bd0736aca7b4a6a"
+  },
+  "time": {
+    "weekday": "monday",
+    "timeslot": "11:45 - 13:15"
+  },
+  "rank": "5",
+  "schoolClasses": [
+    {
+      "$oid": "658ec89d8103bbf375bd5cc7"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e100089bd0736aca7b4a9f"
+  },
+  "name": "Design Patterns",
+  "shortName": "De",
+  "courseTeacher": {
+    "$oid": "658ecab98103bbf375bd5d65"
+  },
+  "students": [
+    {
+      "$oid": "658ecc2b8103bbf375bd5d80"
+    }
+  ],
+  "exams": [],
+  "mandatory": false,
+  "room": {
+    "$oid": "65e0ffb89bd0736aca7b4a6e"
+  },
+  "time": {
+    "weekday": "thursday",
+    "timeslot": "16:00 - 17:30"
+  },
+  "rank": "8",
+  "schoolClasses": [
+    {
+      "$oid": "658ec8c48103bbf375bd5cf3"
+    },
+    {
+      "$oid": "658ec8c88103bbf375bd5cf7"
+    },
+    {
+      "$oid": "658ec8cb8103bbf375bd5cfb"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e100289bd0736aca7b4aaf"
+  },
+  "name": "Software Developments",
+  "shortName": "So",
+  "courseTeacher": {
+    "$oid": "658eca7a8103bbf375bd5d5a"
+  },
+  "students": [
+    {
+      "$oid": "658ecc508103bbf375bd5d88"
+    },
+    {
+      "$oid": "658ecc678103bbf375bd5d91"
+    }
+  ],
+  "exams": [],
+  "mandatory": false,
+  "room": {
+    "$oid": "65e0ffa99bd0736aca7b4a62"
+  },
+  "time": {
+    "weekday": "wednesday",
+    "timeslot": "10:00 - 11:30"
+  },
+  "rank": "11",
+  "schoolClasses": [
+    {
+      "$oid": "658ec8e88103bbf375bd5d17"
+    },
+    {
+      "$oid": "658ec8eb8103bbf375bd5d1b"
+    },
+    {
+      "$oid": "658ec8ee8103bbf375bd5d1f"
+    }
+  ],
+  "__v": 0
+}]
