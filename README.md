@@ -2,7 +2,6 @@
 
 ## Contents
 
-- [Members](#members)
 - [Technologies](#technologies)
 - [Introduction](#introduction)
 - [Starting the software](#starting-the-software)
