@@ -14,13 +14,6 @@
   - [Frontend](#frontend)
   - [Backend](#backend)
 
-## Members
-
-| Student          | Kürzel | Matrikel-Nr. |
-| ---------------- | ------ | ------------ |
-| Mariya Stoyanova | ms598  | 43383        |
-| Florian Winkler  | fw061  | 40141        |
-
 ## Technologies
 
 | Backend          | Database          |
